@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1662748835 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+
+1662754081 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\estructura\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	"empleado.h"
+	<string.h>
+
+1662752155 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\clase de apoyo\estructura\empleado.h
+
+1664469165 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"empleado.h"
+
+1664469208 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\empleado.h
+	"fecha.h"
+	"sector.h"
+	"comida.h"
+
+1664469236 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fecha.h"
+	"empleado.h"
+	"almuerzo.h"
+	"sector.h"
+	"comida.h"
+	<string.h>
+
+1664467496 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\fecha.h
+
+1664467062 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\fecha.c
+	"fecha.h"
+
+1664468813 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\sector.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"sector.h"
+
+1664204766 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\sector.h
+
+1664468802 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\comida.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"comida.h"
+
+1664450240 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\comida.h
+
+1664469028 source:c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\almuerzo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"almuerzo.h"
+
+1664469022 c:\users\impuestos\documents\personal\utn\ejercicios en codigo c\1er parcial\estructura\almuerzo.h
+	"fecha.h"
+	"empleado.h"
+
